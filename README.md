@@ -1,5 +1,7 @@
 # AngularDynamicModal
 
+This is a demo application that follows the blog post - http://www.sagunpandey.com/2019/06/angular-8-dynamic-modal/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
 
 ## Development server
